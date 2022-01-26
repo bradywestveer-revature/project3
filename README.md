@@ -3,7 +3,17 @@
 This project is an E-Commerce website.
 
 # Features
-- <not finalized yet>
+- Login
+- Register
+- Main Page that shows all products
+- Search for Products
+- Product Page
+- Cart
+- Quantity Select
+- Checkout
+- View transaction
+- Sales/Deals
+- Dark Mode
 
 # Technologies Used
 - Spring Data
